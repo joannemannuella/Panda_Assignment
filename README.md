@@ -1,8 +1,12 @@
 # Panda_Assignment
 
-All dat i used for My portofolio based on google finance
+All dat i used for My portofolio based on [Google Finance](https://docs.google.com/spreadsheets/d/1W0QIsBGpFqpbgcLWhSdiS5UKPNbWLmgV8yKK8UVYIrc/edit#gid=0)
+
+
 [Tesla](https://docs.google.com/spreadsheets/d/1OrxJIjoVEmon3_ulE_BYutHJ6-cZiCPFRtH8VSGoAjU/edit#gid=0)
+
 [Amazon](https://docs.google.com/spreadsheets/d/13icVW-5w1JPLkglvg8YN1yd89bG9p0Zfd3VLtFhSB10/edit#gid=0)
+
 [Facebook](https://docs.google.com/spreadsheets/d/13icVW-5w1JPLkglvg8YN1yd89bG9p0Zfd3VLtFhSB10/edit#gid=0)
 
 Unit 4 Homework Assignment: A Whale Off the Port(folio)
