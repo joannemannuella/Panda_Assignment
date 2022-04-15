@@ -1,6 +1,6 @@
 # Panda_Assignment
 
-All dat i used for My portofolio based on [Google Finance](https://docs.google.com/spreadsheets/d/1W0QIsBGpFqpbgcLWhSdiS5UKPNbWLmgV8yKK8UVYIrc/edit#gid=0)
+All data i used for My portofolio based on [Google Finance](https://docs.google.com/spreadsheets/d/1W0QIsBGpFqpbgcLWhSdiS5UKPNbWLmgV8yKK8UVYIrc/edit#gid=0)
 
 
 [Tesla](https://docs.google.com/spreadsheets/d/1OrxJIjoVEmon3_ulE_BYutHJ6-cZiCPFRtH8VSGoAjU/edit#gid=0)
